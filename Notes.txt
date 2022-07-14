@@ -1,0 +1,49 @@
+linux Fundamentals P1
+//T for Task
+
+T1 & T2 
+An introduction to Linux start in 1991
+Where is Linux Used?
+It's fair to say that Linux is a lot more intimidating to approach than Operating System's (OSs) such as Windows. Both variants have their own advantages and disadvantages. For example, Linux is considerably much more lightweight and you'd be surprised to know that there's a good chance you've used Linux in some form or another every day! Linux powers things such as:
+
+Websites that you visit
+Car entertainment/control panels
+Point of Sale (PoS) systems such as checkout tills and registers in shops
+Critical infrastructures such as traffic light controllers or industrial sensors
+
+T3:
+interacting with your machine -__- easy
+
+T4,T5,T6:
+Some Commands like 
+first command 
+echo, whoami,
+fileSystem
+ ls, cd, cat, pwd,
+Searching 
+(find	find -name), grep, wc -l filename..., 
+
+T-7 intro to shell
+some useful operators 
+
+1- & make terminal do some thing in background like cat fileName.txt
+2- && 2 or more command in one  cd Desktop && ls -l
+3- > take an input and put it in file like echo hello World! > welcome.txt "it will over write the file"
+4- >> operator allows to append the output to the bottom of the file — rather than replacing the contents
+
+
+T-8 Conclusions 
+To quickly recap, we've covered the following:
+
+Understanding why Linux is so commonplace today
+Interacting with your first-ever Linux machine!
+Ran some of the most fundamental commands
+Had an introduction to navigating around the filesystem & how we can use commands like find and grep to make finding data even more efficient!
+ Power up your commands by learning about some of the important shell operators.
+
+Bye
+
+
+
+
+
